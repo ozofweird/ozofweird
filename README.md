@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ozofweird();&fontSize=90&animation=twinkling)
 
-<p align="center">🇰🇷  I'm Kevin Ahn, a growing developer. 🇰🇷 </p>
+<p align="center">🇰🇷 Kevin Ahn 🇰🇷 </p>
 
 <hr>
 <p align="center">
-    A developer who wants to be Kevin, the great designer of the movie 'Home Alone'
+    영화 '나홀로 집에'위대한 설계자 케빈이 되고 싶은 개발자
 </p>
 <hr>
 
