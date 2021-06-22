@@ -28,13 +28,8 @@
     <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/></a> 
     <img src="https://img.shields.io/badge/OWASP%20TOP10-000000?style=flat-square&logo=owasp&logoColor=white"/></a> 
 </p>
-<div align="center" style="text-align:center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozofweird&layout=compact)](https://github.com/ozofweird/github-readme-stats)
-
-</div>
-
-<br><br>
+<br>
 
 <h3 align="center">🪄 Blog 🪄</h3>
 
