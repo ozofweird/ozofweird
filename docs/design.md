@@ -10,8 +10,8 @@ Designing my github profile.
 **This is how I designed my profile**
 - https://github.com/kyechan99/capsule-render
 - https://github.com/techinpark/productive-box
+- https://github.com/bokub/github-stats-box
 - https://2dowon.netlify.app/etc/github-badge/
 - https://shields.io/
 - https://hits.seeyoufarm.com/
 - https://simpleicons.org/
-- https://github.com/techinpark/productive-box
